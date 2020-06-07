@@ -18,6 +18,5 @@ class Dog
   
 end 
 
-lucy = Dog.new 
-lucy.name = "Lucy"
+
 
